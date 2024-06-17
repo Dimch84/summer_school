@@ -1,7 +1,7 @@
 # Компьютерные сети
 
 - [ 1. Wireshark](lab01/lab01.md)
-- [ 2. REEST service](lab02/lab02.md)
+- [ 2. REST service](lab02/lab02.md)
 - [ 3. Client-server applications](lab03/lab03.md)
 
 ## Требования
